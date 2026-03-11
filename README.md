@@ -248,4 +248,5 @@ This project is for **educational and research purposes only**. Do not deploy ho
 
 ## Author
 
-Built by **Pavan**
+Built by **Thakor Pavansinh **
+
