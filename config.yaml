@@ -1,0 +1,20 @@
+framework:
+  name: "CTTO - Credential Theft Technique Observatory"
+  version: "1.0.0"
+  debug: false
+
+database:
+  path: "data/ctto.db"
+
+logging:
+  level: "INFO"
+  log_dir: "logs"
+  max_bytes: 10485760
+  backup_count: 5
+
+modules:
+  base_path: "modules"
+  enabled_categories:
+    - auth
+    - analysis
+    - fingerprinting
